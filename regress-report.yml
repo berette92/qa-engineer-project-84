@@ -128,7 +128,7 @@ bugreports:
    environment: |
      Яндекс.Браузер Версия 25.10.2.1176 (64-bit)
      ОС Windows 10 PRO
-     steps-to-reproduce: |
+   steps-to-reproduce: |
      1. Зайти на страницу сайта 
      2. Открыть инструмент DevTools, выбрать в меню «Дополнительные инструменты → Инструменты разработчика» и нажать на кнопку «Toggle device toolbar» 
      3. Выбрать поочередно разные мобильные устройства
@@ -181,7 +181,7 @@ bugreports:
      5. Оплатить заказ
    expected-result: |
      После оформления заказа происходит перенаправление на страницу для оплаты заказа 
-     actual-result: |
+   actual-result: |
      Открывается окошко об успешном оформлении заказа, переход на страницу оплаты не произошел. 
      Ошибка в DevTools Failed to load resource: the server responded with a status of 500
      
