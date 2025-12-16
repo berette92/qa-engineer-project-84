@@ -3,9 +3,14 @@ name: Angela Kolesnikova
 job: QA Engineer
 level: junior
 email: kolesnikovaangela8@gmail.com
+description: Начинающий тестировщик, в настоящее время прохожу обучение по курсу "QA-engineer" на образовательной платформе Hexlet.
 skills:
-  - Функциональное тестирование
+  - Функциональное и регрессивное тестирование
   - Написание багрепортов
   - Linux
   - Слепая печать
   - Английский язык C1
+  - DevTools
+  - Git
+  - GitHub
+  - cоздание тест-кейсов и чек-листов
