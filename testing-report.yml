@@ -21,7 +21,7 @@
   
 - summary: |
      Проверка открытия карточки товара
-  status: pass
+  status: fail
 
 - summary: 
      Успешное добавление товара в корзину
@@ -69,44 +69,44 @@
 
 - summary: |
      Проверка сайта на кроссбраузерность
-  status:
+  status: pass
   
 - summary: |
      Перенаправление на страницу для оплаты после оформления заказа
-  status:
+  status: fail
 
 - summary: |
      Проверка фильтрции по наличию 
-  status:
+  status: fail
 
 - summary: |
      Успешное добавление несколько разных товаров в корзину
-  status:
+  status: pass
 
 - summary: |
      Успешное добавление нескольких одиноковых товаров в корзину
-  status:
+  status: pass
 
 - summary: |
      Очистка корзины и продолжение покупок
-  status:
+  status: fail
 
 - summary: |
      Закрытие окна оформления заказа с помощью функциональной кнопки
-  status:
+  status: pass
 
 - summary: |
      Закрытие окна оформления заказа с помощью крестика
-  status:
+  status: fail
 
 - summary: |
      Проверка перехода в категорию по хэштегу из карточки товара
-  status:
+  status: pass
 
 - summary: |
      Переключение языка интерфейса
-  status:
+  status: fail
 
 - summary: |
      Поиск не существующего товара
-  status:
+  status: pass
