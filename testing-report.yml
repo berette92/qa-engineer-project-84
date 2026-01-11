@@ -110,3 +110,11 @@
 - summary: |
      Поиск не существующего товара
   status: pass
+
+- summary: |
+     Проверка отображения товаров в каталоге
+  status: fail
+
+- summary: |
+     Проверка запросов в DevTools
+  status: fail
